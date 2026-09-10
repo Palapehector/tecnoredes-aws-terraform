@@ -6,7 +6,7 @@ This project implements a cloud infrastructure Proof of Concept (PoC) for TecnoR
 
 The objective is to transform a cloud architecture design into a functional, reproducible and testable infrastructure while applying principles of network segmentation, security, availability, monitoring and Infrastructure as Code (IaC).
 
-The implementation was developed and tested in an **AWS Academy Learner Lab** environment.
+The implementation was developed and tested in an **AWS Academy Learner Lab** envronment.
 
 ## Architecture
 
